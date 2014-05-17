@@ -1,3 +1,6 @@
-qtcreator-project-structure
+qtcreator-project-template
 ===========================
-Code as described in this guide: http://dragly.org/2014/03/13/new-project-structure-for-projects-in-qt-creator-with-unit-tests/
+Is a modified version of https://github.com/FSund/qtcreator-project-structure/ with the following differences:
+
+* changed tesing library to QTestLib
+* changed paths so that linking actually works (for me on my Windows machine) 
